@@ -6,5 +6,5 @@ int main() {
 
   int ids[MAX_IDS] = {1, 2, 3};
 
-  printf("%d\n", ids[0])
+  printf("%d\n", ids[0]);
 }
